@@ -1,5 +1,5 @@
 # Static Site Generator
-This project was one of my first attempts at generating a static website using `python`/`jupyter` notebooks and the `bootstrap` css framework.
+This project was one of my first attempts at generating a *static website* using `python`/`jupyter` notebooks and the `bootstrap` css framework.
 
 Visit the latest generation of the website [**here**](https://danielc92.github.io/static_site_generator/index0.html) (hosted on github-pages).
 
