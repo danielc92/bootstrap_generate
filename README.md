@@ -28,9 +28,13 @@ pip install requirements.txt
 ```
 
 # Tests
-- Generated a full website succesfully linking text, images
-- Paginated website
-- Implementation of 'tag' system
+- Able to feed directory of `.png` or `.svg` into a static site
+- Generate bootstrap cards for each file in directory, as well as random texts
+- Able to produce pagination objects within site
+- Able to apply tags on a file level based off a `pandas` dataframe
+- All links within site are functional
+- Generating of site deletes old site files
+- All relative references working as intended
 
 # Contributors
 - Daniel Corcoran
